@@ -1,2 +1,2 @@
 # Codeina
-A website made with bootstrap
+A website which is made with bootstrap only.
